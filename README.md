@@ -86,7 +86,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
@@ -106,7 +106,7 @@ Draww - drawwbeta@gmail.com
 [issues-shield]: https://img.shields.io/github/issues/draww/sordur-app.svg?style=for-the-badge
 [issues-url]: https://github.com/draww/sordur-app/issues
 [license-shield]: https://img.shields.io/github/license/draww/sordur-app.svg?style=for-the-badge
-[license-url]: https://github.com/draww/sordur-app/blob/master/LICENSE.txt
+[license-url]: https://github.com/draww/sordur-app/blob/master/LICENSE
 [dart-url]: https://dart.dev/
 [flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
 [flutter-url]: https://flutter.dev/?gclsrc=ds&gclsrc=ds
