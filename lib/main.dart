@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sordur_app/screens/main_screen.dart';
 
 void main() {
   runApp(const App());
@@ -13,7 +14,7 @@ class App extends StatelessWidget {
     return const MaterialApp(
       title: 'Sordur',
       debugShowCheckedModeBanner: false,
-      home: Scaffold(),
+      home: MainScreen(),
     );
   }
 }
