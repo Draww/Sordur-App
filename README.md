@@ -6,8 +6,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-## Sordur-App
-
 <br />
 <div align="center">
   <a href="https://github.com/Draww/sordur-app">
