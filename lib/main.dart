@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:sordur_app/screens/main_screen.dart';
+
+import 'screens/screens.dart';
 
 void main() {
   runApp(const App());
